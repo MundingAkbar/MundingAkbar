@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Akbar😄
-#### I am a fresher/Junior web and software developer
-![I am a fresher/Junior web and software developer](https://th.bing.com/th/id/OIP.cjnRsZB8X0DMc_NfxHJW4gHaD1?pid=ImgDet&rs=1)
+#### I am an Entry Level Web/Software developer
+![I am an Entry Level Web/Software developer](https://th.bing.com/th/id/OIP.cjnRsZB8X0DMc_NfxHJW4gHaD1?pid=ImgDet&rs=1)
 
-I'm Akbar from Zamboanga City, Philippines, and I'm a Fresher/Junior Web and software developer. I really enjoy learning programming languages and frameworks like PHP, Laravel, Javascript, c#, Java and so on. I have also a great interest in Machine learning and Data science as I've been working with it during my academic year.
+I'm Akbar from Zamboanga City, Philippines, I do really enjoy learning programming languages and frameworks like PHP, Laravel, Javascript, c#, Java and so on. I have also a great interest in Machine learning and Data science as I've been working with it during my academic year.
 
 Skills:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -26,8 +26,6 @@ Skills:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-
-- 🌱 I’m currently learning Web and Software Development with .NET framework
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MundingAkbar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akbar-munding-708828166/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/moon.ding.96)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/am_geekk/)  
 
